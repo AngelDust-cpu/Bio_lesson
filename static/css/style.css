@@ -10,7 +10,7 @@ body {
 .Si{
     color: #ffffff;
     font-size: 8vh;
-    padding-top: 30px;
+    padding-top: 50px;
     margin: 0;
     text-align: center;
 }
@@ -30,7 +30,7 @@ body {
 .i{
     width: 20vh;
     border-radius: 150px;
-    transform: translateX(30ch) translateY(-66ch);
+    transform: translateX(30ch) translateY(-68ch);
 }
 
 .main-back{
