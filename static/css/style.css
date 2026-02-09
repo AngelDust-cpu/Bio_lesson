@@ -10,8 +10,8 @@ body {
 .Si{
     color: #ffffff;
     font-size: 8vh;
-    padding-top: 70px;
-    margin-bottom: 0;
+    padding-top: 30px;
+    margin: 0;
     text-align: center;
 }
 
@@ -30,7 +30,7 @@ body {
 .i{
     width: 20vh;
     border-radius: 150px;
-    transform: translateX(30ch) translateY(-18ch);
+    transform: translateX(30ch) translateY(-66ch);
 }
 
 .main-back{
@@ -40,5 +40,11 @@ body {
     border-radius: 20px;
     display: flex;
     flex-direction: column;
-    align-items: center;
 }
+
+.hobby{
+    color: #ffffff; 
+    padding-top: 60px;
+    padding-left: 80px;
+}
+
